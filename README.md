@@ -8,8 +8,8 @@ This tutorial is for individuals looking to learn introductory knowledge on mobi
 
 Files in order:
 
-Mobile Communications
+1. Mobile Communications
 
-2G-4G
+2. 2G-4G
 
-5G Standards
+3. 5G Standards
