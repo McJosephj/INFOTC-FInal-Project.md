@@ -6,3 +6,10 @@ This tutorial will introduce very basic concepts of telecommunications and the 5
 
 This tutorial is for individuals looking to learn introductory knowledge on mobile communications and 5G technology
 
+Files in order:
+
+Mobile Communications
+
+2G-4G
+
+5G Standards
